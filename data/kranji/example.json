@@ -1,0 +1,91 @@
+{
+    "unit": [
+        40
+    ],
+    "tarif_detail": [
+        {
+            "id": 0,
+            "tarif_pelayanan_id": "0",
+            "tahun": "2024",
+            "cara_bayar_id": "1",
+            "perusahaan_id": 0,
+            "kelas_id": 0,
+            "golongan_operasi": 0,
+            "biaya": 0,
+            "tarif": 0,
+            "komponen_list": [
+                {
+                    "id": 0,
+                    "tarif_pelayanan_detail_id": 0,
+                    "komponen_id": "12",
+                    "komponen": "P. ADMINISTRASI",
+                    "komponen_jenis": "1",
+                    "tarif": "30000",
+                    "biaya": 0
+                },
+                {
+                    "id": 0,
+                    "tarif_pelayanan_detail_id": 0,
+                    "komponen_id": "54",
+                    "komponen": "B. ADMINISTRASI",
+                    "komponen_jenis": "2",
+                    "tarif": 0,
+                    "biaya": 0
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "tarif_pelayanan_id": "0",
+            "tahun": "2024",
+            "cara_bayar_id": "1",
+            "perusahaan_id": 0,
+            "kelas_id": "12",
+            "golongan_operasi": 0,
+            "biaya": 0,
+            "tarif": 0,
+            "komponen_list": [
+                {
+                    "id": 0,
+                    "tarif_pelayanan_detail_id": 0,
+                    "komponen_id": "12",
+                    "komponen": "P. ADMINISTRASI",
+                    "komponen_jenis": "1",
+                    "tarif": "30000",
+                    "biaya": 0
+                },
+                {
+                    "id": 0,
+                    "tarif_pelayanan_detail_id": 0,
+                    "komponen_id": "54",
+                    "komponen": "B. ADMINISTRASI",
+                    "komponen_jenis": "2",
+                    "tarif": 0,
+                    "biaya": 0
+                }
+            ]
+        }
+    ],
+    "nama": "ADMINISTRASI DOKTER GIGI UMUM RAWAT JALAN",
+    "unit_value": 40,
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+        {
+            "id": "12",
+            "nama": "P. ADMINISTRASI",
+            "jenis": "1"
+        },
+        {
+            "id": "54",
+            "nama": "B. ADMINISTRASI",
+            "jenis": "2"
+        }
+    ]
+}

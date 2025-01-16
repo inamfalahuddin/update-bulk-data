@@ -1,0 +1,4083 @@
+[
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "116000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "116000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "116000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "116000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "140000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "140000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "168000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "168000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "168000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "168000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "202000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "202000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "202000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "202000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "202000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "202000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "202000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "202000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "243000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "243000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "292000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "292000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 1 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "202000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "202000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "202000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "202000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "243000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "243000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "292000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "292000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "292000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "292000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "351000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "351000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "351000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "351000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "351000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "351000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "351000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "351000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "422000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "422000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "507000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "507000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 2 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "260000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "260000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "260000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "260000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "312000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "312000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "375000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "375000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "375000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "375000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "450000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "450000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "450000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "450000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "450000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "450000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "450000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "450000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "540000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "540000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "648000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "648000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 3 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "375000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "375000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "375000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "375000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "450000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "450000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "540000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "540000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "540000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "540000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "648000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "648000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "648000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "648000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "648000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "648000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "648000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "648000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "778000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "778000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "934000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "934000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 4 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "461000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "461000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "461000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "461000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "554000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "554000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "665000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "665000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "665000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "665000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "798000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "798000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "798000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "798000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "798000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "798000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "798000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "798000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "958000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "958000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1150000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1150000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 5 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "548000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "548000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "548000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "548000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "658000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "658000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "790000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "790000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "790000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "790000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "948000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "948000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "948000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "948000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "948000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "948000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "948000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "948000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1138000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1138000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1366000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1366000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 6 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "605000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "605000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "605000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "605000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "726000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "726000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "872000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "872000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "872000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "872000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1047000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1047000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1047000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1047000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1047000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1047000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1047000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1047000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1257000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1257000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1509000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1509000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 7 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "692000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "692000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "692000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "692000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "831000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "831000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "998000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "998000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "998000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "998000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1198000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1198000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1198000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1198000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1198000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1198000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1198000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1198000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1438000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1438000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1726000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1726000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 8 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "807000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "807000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "807000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "807000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "969000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "969000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1163000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1163000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1163000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1163000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1396000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1396000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1396000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1396000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1396000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1396000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1396000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1396000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1676000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1676000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "2012000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "2012000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 9 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "864000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "864000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "864000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "864000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1037000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1037000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1245000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1245000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1245000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1245000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1494000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1494000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1494000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1494000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1494000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1494000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1494000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1494000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1793000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1793000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "2152000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "2152000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 10 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      59,
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1008000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1008000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1008000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1008000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1210000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1210000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1452000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1452000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1452000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1452000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1743000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1743000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1743000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1743000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1743000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1743000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "1743000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "1743000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "2092000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "2092000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": "2511000",
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "15",
+            "komponen": "P.SEWA ALAT",
+            "komponen_jenis": "1",
+            "tarif": "2511000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "43",
+            "komponen": "B.SEWA ALAT",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "OKSIGEN CENTRAL PER HARI 15 LITER/MNT (2025)",
+    "unit_value": "59,50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "15",
+        "nama": "P. SEWA ALAT",
+        "jenis": "1"
+      },
+      {
+        "id": "43",
+        "nama": "B. SEWA ALAT",
+        "jenis": "2"
+      }
+    ]
+  }
+]

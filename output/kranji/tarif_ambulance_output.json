@@ -1,0 +1,4072 @@
+[
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "5250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE MEDIS SPGDT BEKASI (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "6250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE MEDIS SPGDT JKT (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "3500000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE MEDIS SPGDT (1) (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4000000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE MEDIS SPGDT (2) (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "4250000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE MEDIS SPGDT (3) (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "8300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE MEDIS SPGDT L.KOTA1 (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "10300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE MEDIS SPGDT L.KOTA2 (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "350000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE RUJUK DAERAH  BEKASI (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "900000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE RUJUK DAERAH  JAKARTA (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "300000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE JENAZAH AREA 1 (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      93
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 2,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 4,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "850000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "42",
+            "komponen": "B.BHP",
+            "komponen_jenis": "2",
+            "tarif": "0",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AMBULANCE JENAZAH AREA 2 (2025)",
+    "unit_value": "93",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "42",
+        "nama": "B. BHP",
+        "jenis": "2"
+      }
+    ]
+  }
+]
