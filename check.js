@@ -61,4 +61,9 @@ const structuredData = data.reduce((acc, item) => {
 
 const result = Object.values(structuredData);
 
-console.log(result.length)
+// console.log(result.length)
+const length = result.length;
+console.log({
+    rows: length,
+    file: `./data/${env.DIR}/${env.FILE_INPUT}.json`
+})

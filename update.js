@@ -18,7 +18,10 @@ const getDataByName = async (nama) => {
         const response = await fetch(url, {
             method: 'POST', // Specify the method as POST
             headers: {
-                'Content-Type': 'application/json', // Set the content type
+                'Content-Type': 'application/json',
+                headers: {
+                    Cookie: env.COOKIE
+                }
             },
             body: JSON.stringify({ nama }) // Include the data in the body
         });
@@ -65,12 +68,13 @@ const getDataByUID = async (uid) => {
 const processData = async (data) => {
     const results = [];
 
+    let i = 1;
     for (const item of data) {
         try {
             const fetchedData = await getDataByName(item.nama);
 
             if (fetchedData == null) {
-                console.log('Data not found:', item.nama);
+                console.log(`[${i}] Data not found:`, item.nama);
                 continue;
             } else {
                 const uid = fetchedData.data;
@@ -83,14 +87,33 @@ const processData = async (data) => {
                         detailList = dataByUID.detail_list;
                     }
 
-                    detailList.push(item.tarif_detail);
+                    // detailList.push(item.tarif_detail);
+                    detailList = [...detailList, ...item.tarif_detail];
 
-                    dataByUID.detail_list = detailList;
+                    if(dataByUID.detail_list) {
+                        delete dataByUID.detail_list;
+                    }
+
+                    if(dataByUID.layanan_list) {
+                        delete dataByUID.layanan_list;
+                    }
+
+                    // dataByUID.detail_list = detailList;
+                    dataByUID.tarif_detail = detailList;
+                    dataByUID.komponen_tarif = item.komponen_tarif;
+                    dataByUID.unit = item.unit;
+                    dataByUID.unit_value = item.unit_value;
+
+                    if (dataByUID.spesialisasi_id || dataByUID.spesialisasi_id == null) {
+                        delete dataByUID.spesialisasi_id;
+                    }
 
                     results.push(dataByUID);
                 }
-                // console.log('[UPDATED]', item.nama);
+                console.log(`[${i}] [UPDATED]`, item.nama);
             }
+
+            i++;
         } catch (error) {
             console.error('Error processing item:', item.nama, error);
         }
