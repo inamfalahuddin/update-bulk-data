@@ -1,0 +1,6 @@
+[
+    {"no":"1","nama_tarif":"ACA IGG","komponen_id":"8","komponen_key":"P.","komponen_jenis":"1","komponen_nama":"BHP","kelas_9":"1390000","kelas_10":"1530000","kelas_24":"1690000","kelas_23":"1690000","kelas_25":"1690000","unit":"47"},
+    {"no":"","nama_tarif":"ACA IGG","komponen_id":"42","komponen_key":"B.","komponen_jenis":"2","komponen_nama":"BHP","kelas_9":"0","kelas_10":"0","kelas_24":"0","kelas_23":"0","kelas_25":"0","unit":"47"},
+    {"no":"2","nama_tarif":"ACA IGM","komponen_id":"8","komponen_key":"P.","komponen_jenis":"1","komponen_nama":"BHP","kelas_9":"1510000","kelas_10":"1670000","kelas_24":"1840000","kelas_23":"1840000","kelas_25":"1840000","unit":"47"},
+    {"no":"","nama_tarif":"ACA IGM","komponen_id":"42","komponen_key":"B.","komponen_jenis":"2","komponen_nama":"BHP","kelas_9":"0","kelas_10":"0","kelas_24":"0","kelas_23":"0","kelas_25":"0","unit":"47"}
+]

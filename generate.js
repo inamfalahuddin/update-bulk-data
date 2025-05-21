@@ -103,7 +103,7 @@ results.forEach(dataInput => {
             tarif_pelayanan_id: "0",
             tahun: dataInput.tahun ?? "2025",
             // cara_bayar_id: "3",
-            cara_bayar_id: env.CARA_BAYAR_ID ?? "3",
+            cara_bayar_id: env.CARA_BAYAR_ID ?? "1",
             perusahaan_id: 0,
             kelas_id: item,
             golongan_operasi: dataInput.id_bedah ?? 0,
